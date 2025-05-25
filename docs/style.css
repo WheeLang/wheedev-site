@@ -18,7 +18,7 @@ header {
 }
 
 nav a {
-    color: #ccc;
+    color: #000000;
     margin-left: 20px;
     text-decoration: none;
 }
@@ -61,7 +61,7 @@ nav a:hover {
 }
 
 .btn2 {
-    background: #ccc;
+    background: #000000;
     color: #000;
 }
 
@@ -79,22 +79,22 @@ nav a:hover {
 }
 
 .card {
-    background: #1f2227;
+    background: #d2d2d4;
     border-radius: 12px;
     padding: 30px;
     width: 300px;
     text-align: center;
-    color: #fff;
+    color: #000000;
     box-shadow: 0 5px 20px rgba(0, 0, 0, 0.3);
 }
 
 .card h2 {
     margin-top: 0;
-    color: #00d084;
+    color: #000000;
 }
 
 .card p {
-    color: #ccc;
+    color: #000000;
 }
 
 footer {
