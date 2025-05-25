@@ -6,7 +6,7 @@ body {
 }
 
 header {
-    background: #d2d2d4;
+    background: #ededed;
     padding: 20px 40px;
     display: flex;
     justify-content: space-between;
@@ -39,7 +39,7 @@ nav a:hover {
 
 .hero p {
     font-size: 20px;
-    color: #aaa;
+    color: #666;
 }
 
 .btn, .btn2 {
@@ -79,7 +79,7 @@ nav a:hover {
 }
 
 .card {
-    background: #d2d2d4;
+    background: #ededed;
     border-radius: 12px;
     padding: 30px;
     width: 300px;
